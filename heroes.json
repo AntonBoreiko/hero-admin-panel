@@ -17,6 +17,18 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
+    },
+    {
+      "id": "d6a4e472-f939-413c-a5c7-51b33f3c5945",
+      "name": "anton",
+      "description": "fdsfdsf",
+      "element": "water"
+    },
+    {
+      "id": "9ee4de35-db13-4001-8101-38530f6609e1",
+      "name": "fdsf",
+      "description": "fdsfd",
+      "element": "wind"
     }
   ],
   "filters": [
