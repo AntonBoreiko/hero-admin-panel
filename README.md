@@ -1,1 +1,1 @@
-This is test project with hero admin panel!
+This is test project with React and Redax. With fake server (heroes.json)
