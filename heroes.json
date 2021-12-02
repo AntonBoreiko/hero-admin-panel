@@ -17,6 +17,12 @@
       "name": "Аквамэн",
       "description": "как раз он из кино-вселенной DC",
       "element": "water"
+    },
+    {
+      "id": "7608dfcf-d40f-4326-8db2-055f52316e43",
+      "name": "андрейf",
+      "description": "fdsfsd",
+      "element": "earth"
     }
   ],
   "filters": [
