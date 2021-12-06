@@ -1,13 +1,7 @@
 import { createSlice, createAsyncThunk, createEntityAdapter } from "@reduxjs/toolkit";
-import { act } from "react-dom/test-utils";
 import { useHttp } from "../../hooks/http.hook";
 
 const filtersAdapter = createEntityAdapter()
-// const initialState = {
-//    filters: [],
-//    filtersLoadingStatus: 'idle',
-//    activeFilter: 'all'
-// }
 
 const initialState = filtersAdapter.getInitialState({
    filtersLoadingStatus: 'idle',
